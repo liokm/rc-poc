@@ -1,5 +1,5 @@
 /*!
- * rc-poc v1.0.5
+ * rc-poc v1.0.6
  * MIT Licensed
  */
 (function webpackUniversalModuleDefinition(root, factory) {

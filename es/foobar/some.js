@@ -1,0 +1,1 @@
+export var some = ['foobar', 'JS'];
